@@ -1,0 +1,10 @@
+/var/log/vpngui.log {
+
+        daily
+        rotate 10
+        compress
+        delaycompress
+        missingok
+        notifempty
+        create 644 root root
+}

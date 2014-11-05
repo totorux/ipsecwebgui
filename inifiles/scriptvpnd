@@ -1,0 +1,7 @@
+#!/bin/bash
+exec >>/var/log/vpngui.log 2>&1
+
+while :; do
+	sleep 2
+	/bin/bash SCRIPTPASTHscriptvpn.sh vpnsetup
+done
