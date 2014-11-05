@@ -6,7 +6,7 @@
 # OS          : Linux                                                        #
 # Licence     : GPLv3                                                        #
 # Version     : 0.3.3                                                        #
-# Author      : Schneider Benoit <ton.ami.totoro CHEZ gmail.com>             #
+# Author      : Totorux <ton.ami.totoro CHEZ gmail.com>                      #
 # Web site    : https://www.totorux.info                                     #
 #                                                                            #
 #                                                                            #
